@@ -1,2 +1,3 @@
 /*! Place your custom styles here */
 iframe{ min-height: 0; }
+.bar .logo{ max-width: none; max-height: 75px; }
