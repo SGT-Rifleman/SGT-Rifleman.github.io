@@ -3705,6 +3705,7 @@ section.unpad--top {
 }
 .box-shadow-wide {
   box-shadow: 0 23px 40px rgba(0, 0, 0, 0.2);
+  width: 100%;
 }
 .border--round {
   border-radius: 6px;
